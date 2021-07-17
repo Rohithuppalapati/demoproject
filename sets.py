@@ -5,3 +5,4 @@ set_attendence=set(attendance_list)
 
 
 print(school.difference(set_attendence))
+
