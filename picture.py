@@ -6,9 +6,6 @@ picture = [
   [0,0,0,1,0,0,0],
   [0,0,0,1,0,0,0]
 ]
-
-
-
 for image in picture:
     for pixel in image:
         if (pixel):
@@ -16,3 +13,5 @@ for image in picture:
         else:
             print(' ',end='')
     print(end='\n')
+
+
