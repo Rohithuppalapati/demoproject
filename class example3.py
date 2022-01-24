@@ -41,4 +41,4 @@ time1.DisplayMinute()
 
 print()
 #result=Time1.addTime(time1,time2)
-#print(result)
+#print(result.displayTime())
